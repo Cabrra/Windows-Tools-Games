@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <RelativePath Value="C:\Users\Jake\Desktop\tool\Resources\default.png" />
+    <Path Value="default.png" />
+    <Width Value="100" />
+    <Height Value="0" />
+    <PositionX Value="200" />
+    <PositionY Value="200" />
+    <ImageSizeWidh Value="128" />
+    <ImageSizeHeight Value="128" />
+    <MaxParticles Value="100" />
+    <FirstWave Value="24" />
+    <SpawnRate Value="0.326999985881088" />
+    <Shape Value="3" />
+    <Flyweight>
+      <MinLife Value="0.382999984078848" />
+      <MaxLife Value="1.18099998818304" />
+      <ColorStartA Value="225" />
+      <ColorStartR Value="146" />
+      <ColorStartG Value="38" />
+      <ColorStartB Value="160" />
+      <ColorEndA Value="48" />
+      <ColorEndR Value="147" />
+      <ColorEndG Value="91" />
+      <ColorEndB Value="109" />
+      <ScaleStart Value="1" />
+      <ScaleEnd Value="3.604999964950528" />
+      <RotationStart Value="-116" />
+      <RotationEnd Value="0.14200000741376" />
+      <VelocityStartMinX Value="28.574000011313152" />
+      <VelocityStartMaxX Value="89.39399999930368" />
+      <VelocityStartMinY Value="-54.643000003100672" />
+      <VelocityStartMaxY Value="-15.26499998547968" />
+      <VelocityEndMinX Value="86.824000008060928" />
+      <VelocityEndMaxX Value="91.321000017231872" />
+      <VelocityEndMinY Value="-43.275000011522048" />
+      <VelocityEndMaxY Value="42.559999994986496" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>
