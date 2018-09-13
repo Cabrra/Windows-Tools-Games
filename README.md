@@ -5,25 +5,25 @@ Windows Tools & Games
 
 ### Tools
 
-![character](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/Character.png)
+![character](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/Character.png)
 
 + Character Editor
 	+ Character generator to practice load/save in windows environment.
 
 	
-![WaitPoints](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/Waypoints.png)
+![WaitPoints](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/Waypoints.png)
 
 + Waypoint System
 	+ Basic waypoint system to practice drawing in windows froms. Left click to place right click to select.
 
 	
-![Tile Editior](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/TileEditor.png)
+![Tile Editior](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/TileEditor.png)
 	
 + Tile Editor
 	+ This Tile Editor was a course project. I implemented another tile editor for the Unity engine based on this project. This tool is a level editor for a 2-D scrolling game. It loads in a tile set (a bitmap divided into tiles) and displays it in a window. In the another window it displays the map. You are able to select individual tiles in the tile set and then place them at the desired location in the map keeping the mouse button pressed down.
 
 	
-![Particle](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/ParticleTool.png)
+![Particle](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/ParticleTool.png)
 
 + Particle Tool
 	+ This tool was used in the ninja game who took us  months to develop. It animates the particle system to see how it would be in the game.  
@@ -31,8 +31,8 @@ Windows Tools & Games
 	
 ### Games
 
-![TicTacToe](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/TicTac1.png)
-![TicTacToe](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/TicTac2.png)
+![TicTacToe](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/TicTac1.png)
+![TicTacToe](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/TicTac2.png)
 
 Tic Tac Toe:
 A fun windows game to learn developing games in windows environment
@@ -58,8 +58,8 @@ A fun windows game to learn developing games in windows environment
 	+ Arrow keys and Enter
 
 	
-![Pong](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/Pong1.png)
-![Pong](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Tools/Pong2.png)
+![Pong](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/Pong1.png)
+![Pong](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Tools/Pong2.png)
 	
 Pong: Psycho Fox tribute (sega master system)
 I enjoyed a lot making this project since all the art is from one of the games I ever played: Sega Master System II Psycho Fox.
